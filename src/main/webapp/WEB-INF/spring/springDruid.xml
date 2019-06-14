@@ -24,8 +24,8 @@
 		init-method="init" destroy-method="close">
 		<!-- 数据库连接基础信息 -->
 		<property name="url" value="jdbc:mysql://139.199.82.213:3306/mineronline?characterEncoding=utf8&amp;useSSL=true" />
-		<property name="username" value="zpHtXGJY" />
-		<property name="password" value="hushangjie" />
+		<property name="username" value="xxxxxxxx" />
+		<property name="password" value="xxxxx" />
 
 		<!-- 初始化连接大小 -->
 		<property name="initialSize" value="0" />
